@@ -96,8 +96,8 @@ li.checked::marker { content: &quot;\2612&quot;; }
      <rect>
       <x>20</x>
       <y>370</y>
-      <width>256</width>
-      <height>61</height>
+      <width>211</width>
+      <height>41</height>
      </rect>
     </property>
     <property name="html">
@@ -109,14 +109,14 @@ li.unchecked::marker { content: &quot;\2610&quot;; }
 li.checked::marker { content: &quot;\2612&quot;; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Microsoft YaHei UI'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;排名范围&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;填“&lt;span style=&quot; font-weight:700;&quot;&gt;2000&lt;/span&gt;”，就输出排名到&lt;span style=&quot; font-weight:700;&quot;&gt;2000&lt;/span&gt;名左右，&lt;span style=&quot; font-weight:700;&quot;&gt;不输入则默认为2000&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;填“&lt;span style=&quot; font-weight:700;&quot;&gt;2000&lt;/span&gt;”，就输出排名到&lt;span style=&quot; font-weight:700;&quot;&gt;2000&lt;/span&gt;名左右&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
    </widget>
    <widget class="QWidget" name="horizontalLayoutWidget">
     <property name="geometry">
      <rect>
       <x>20</x>
-      <y>440</y>
+      <y>420</y>
       <width>401</width>
       <height>80</height>
      </rect>

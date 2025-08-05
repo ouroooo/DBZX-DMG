@@ -76,10 +76,10 @@ public:
         inNum->setGeometry(QRect(20, 340, 251, 21));
         textBrowser_2 = new QTextBrowser(centralwidget);
         textBrowser_2->setObjectName("textBrowser_2");
-        textBrowser_2->setGeometry(QRect(20, 370, 256, 61));
+        textBrowser_2->setGeometry(QRect(20, 370, 211, 41));
         horizontalLayoutWidget = new QWidget(centralwidget);
         horizontalLayoutWidget->setObjectName("horizontalLayoutWidget");
-        horizontalLayoutWidget->setGeometry(QRect(20, 440, 401, 80));
+        horizontalLayoutWidget->setGeometry(QRect(20, 420, 401, 80));
         horizontalLayout = new QHBoxLayout(horizontalLayoutWidget);
         horizontalLayout->setObjectName("horizontalLayout");
         horizontalLayout->setContentsMargins(0, 0, 0, 0);
@@ -134,7 +134,7 @@ public:
 "</style></head><body style=\" font-family:'Microsoft YaHei UI'; font-size:9pt; font-weight:400; font-style:normal;\">\n"
 "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">\346\216\222\345\220\215\350\214\203\345\233\264</p>\n"
 "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">\345\241\253\342\200\234<span style=\" font-weight:700;\">2000</span>\342\200\235\357\274\214\345\260\261\350\276\223\345\207\272\346\216\222\345\220\215\345\210\260<span style=\" font-weight:700;\">2000</span>\345\220"
-                        "\215\345\267\246\345\217\263\357\274\214<span style=\" font-weight:700;\">\344\270\215\350\276\223\345\205\245\345\210\231\351\273\230\350\256\244\344\270\2722000</span></p></body></html>", nullptr));
+                        "\215\345\267\246\345\217\263</p></body></html>", nullptr));
         inSchool->setText(QCoreApplication::translate("MainWindow", "\345\257\274\345\207\272\345\271\264\347\272\247\346\216\222\345\220\215", nullptr));
         allSchool->setText(QCoreApplication::translate("MainWindow", "\345\257\274\345\207\272\345\216\277\346\216\222\345\220\215", nullptr));
         ingrade->setPlaceholderText(QCoreApplication::translate("MainWindow", "\350\257\267\350\276\223\345\205\245\345\271\264\347\272\247\357\274\210\347\272\257\346\225\260\345\255\227\357\274\211", nullptr));
